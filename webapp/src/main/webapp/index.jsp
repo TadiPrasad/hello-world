@@ -8,6 +8,10 @@
     <input type="number" placeholder="Enter Phonenumber" name="Phone" id="Phone" required>
     <br>
 
+    <label for="Currency"><b>currency</b></label>
+    <input type="currency" placeholder="Enter currency" name="currency" id="currency" required>
+    <br>
+    
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
